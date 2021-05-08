@@ -4,5 +4,14 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/christian-theobald-8165b4191//"><img height="24" src="https://github.com/christiantheobald/christiantheobald/blob/main/linkedin.png"><a href="https://www.twitter.com/CTheobal"><img height="24" src="https://github.com/christiantheobald/christiantheobald/blob/main/twitter.png">
 </p>
+<details>
+ <summary><strong>Compétences</strong></summary>
+  - HTML/CSS <br>
+  - Javascript <br>
+  - React <br>
+  - NodeJS <br>
+  - Github <br>
+  - Méthodes Agiles : SCRUM
+</details>
  
   
