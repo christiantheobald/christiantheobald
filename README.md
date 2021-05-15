@@ -14,6 +14,6 @@
   - Méthodes Agiles : SCRUM
 </details>
  
-<https://github.com/christiantheobald/portfolio>
+<p align="center">https://github.com/christiantheobald/portfolio</p>
  
   
