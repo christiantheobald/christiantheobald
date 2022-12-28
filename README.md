@@ -2,7 +2,7 @@
 # Salut, je suis Christian Théobald, développeur web junior.
 # Après 17 années passées dans la logistique , je me reconvertis dans le développement web car j'ai toujours été passionné par le numérique.
 <p align="center">
-<a href="https://www.linkedin.com/in/christian-theobald-8165b4191//"><img height="24" src="https://github.com/christiantheobald/christiantheobald/blob/main/linkedin.png"><a href="https://www.twitter.com/CTheobal"><img height="24" src="https://github.com/christiantheobald/christiantheobald/blob/main/twitter.png">
+<a href="https://www.linkedin.com/in/christiantheobald//"><img height="24" src="https://github.com/christiantheobald/christiantheobald/blob/main/linkedin.png"><a href="https://www.twitter.com/CTheobal"><img height="24" src="https://github.com/christiantheobald/christiantheobald/blob/main/twitter.png">
 </p>
 <details>
  <summary><strong>Compétences</strong></summary>
